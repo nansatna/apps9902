@@ -1,1 +1,5 @@
-ini adalah file index.php
+<?php
+
+	include "template/login.php";
+
+?>
